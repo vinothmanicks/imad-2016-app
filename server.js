@@ -21,6 +21,7 @@ var articles = {
                     This is the content of article one.
                 </p>`
     },
+    
     'article-two': {
         title: "Article Two | Vinoth",
         heading: "Article Two",
@@ -36,6 +37,7 @@ var articles = {
                     This is the content of article two. This is the content of article two.
                 </p>`
     },
+    
     'article-three': {
         title: "Article Three | Vinoth",
         heading: "Article Three",
