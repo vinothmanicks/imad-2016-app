@@ -22,8 +22,8 @@ var articles = {
                 </p>`
     },
     'article-two': {
-        title: "Article One | Vinoth",
-        heading: "Article One",
+        title: "Article Two | Vinoth",
+        heading: "Article Two",
         date: "Sep 28, 2016",
         content:`
                 <p>
@@ -37,8 +37,8 @@ var articles = {
                 </p>`
     },
     'article-three': {
-        title: "Article One | Vinoth",
-        heading: "Article One",
+        title: "Article Three | Vinoth",
+        heading: "Article Three",
         date: "Sep 28, 2016",
         content:`
                 <p>
@@ -63,7 +63,7 @@ function createTemplate (data) {
         <html>
             <head>
                 <title>
-                    $title
+                    ${title}
                 </title>
                 <meta name="viewport" content="width=device-wwidth , initial-scaled=1" />
             </head>
@@ -74,13 +74,13 @@ function createTemplate (data) {
                     </div>
                     <hr/>
                     <h3>
-                        $heading
+                        ${heading}
                     </h3>
                     <div>
-                        $date
+                        ${date}
                     </div>
                     <div>
-                        $content
+                        ${content}
                     </div>
                 </div>
             </body>
