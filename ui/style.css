@@ -1,7 +1,6 @@
 body {
     font-family: sans-serif;
-    background: #09f;
-    @include background-image(linear-gradient(bottom, #09f, #45d1ff));
+    background: linear-gradient(bottom, #09f, #45d1ff));
     margin-top: 75px;
 }
 
