@@ -10,6 +10,10 @@ body {
 }
 
 .text-big {
+    font-size: 300%;
+}
+
+.text-medium {
     font-size: 200%;
 }
 
