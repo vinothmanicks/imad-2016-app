@@ -23,11 +23,10 @@ body {
 }
 
 .box{
-    width: 90%;
     border: 25px; 
     border-style: solid;
     border-color: #45d1fa;
-    padding: 25px;
+    padding: 125px;
     margin: 25px;
 }
 
