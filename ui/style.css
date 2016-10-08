@@ -24,7 +24,7 @@ body {
 
 .box{
     width: 300px;
-    border: 25px solid blue;
+    border: 25px #45d1fa;
     padding: 25px;
     margin: 25px;
 }
