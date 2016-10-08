@@ -23,12 +23,12 @@ body {
 }
 
 .box{
+    margin: auto;
     width: 750px;
     border: 25px; 
     border-style: solid;
     border-color: #45d1fa;
     padding: 35px;
-    margin: 25px;
 }
 
 .container{
