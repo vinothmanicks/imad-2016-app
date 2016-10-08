@@ -24,7 +24,9 @@ body {
 
 .box{
     width: 90%;
-    border: 25px solid green;
+    border: 25px; 
+    border-style: solid;
+    border-color: #45d1ff;
     padding: 25px;
     margin: 25px;
 }
