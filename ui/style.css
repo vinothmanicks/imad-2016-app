@@ -29,7 +29,12 @@ body {
     border-style: solid;
     border-color: #45d1fa;
     padding: 35px;
+    background: rgba(69,209,250,0.5);
 }
+
+box:hover {
+    background: rgba(69,209,250,0.75);
+  }
 
 .container{
     margin: 0 auto;
