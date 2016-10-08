@@ -23,16 +23,17 @@ body {
 }
 
 .box{
+    width: 350px;
     border: 25px; 
     border-style: solid;
     border-color: #45d1fa;
-    padding: 125px;
+    padding: 35px;
     margin: 25px;
 }
 
 .container{
     margin: 0 auto;
-    color: grey;
+    color: aquamarine;
     padding-top: 50px;
     padding-bottom: 50px;
     padding-left: 15px;
