@@ -59,15 +59,19 @@ body {
     padding-left: 20px;
     padding-right: 175px;
 }
-
 .menu-mid {
     padding-left: 175px;
     padding-right: 112px;
 }
-
 .menu-end {
     padding-left: 112px;
     padding-right: 20px;
+}
+
+.summarybox {
+    margin: auto;
+    width: 1000px;
+    padding: 35px;
 }
 
 a:link {
