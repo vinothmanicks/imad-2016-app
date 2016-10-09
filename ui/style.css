@@ -36,3 +36,9 @@ body {
     padding-left: 15px;
     padding-right: 15px;
 }
+
+.actionbar {
+    margin: auto;
+    width: 750px;
+    padding: 35px;
+}
