@@ -57,16 +57,16 @@ body {
 
 .menu-front {
     padding-left: 20px;
-    padding-right: 145px;
+    padding-right: 175px;
 }
 
 .menu-mid {
-    padding-left: 145px;
-    padding-right: 125px;
+    padding-left: 175px;
+    padding-right: 112px;
 }
 
 .menu-end {
-    padding-left: 125px;
+    padding-left: 112px;
     padding-right: 20px;
 }
 
