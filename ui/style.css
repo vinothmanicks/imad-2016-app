@@ -28,9 +28,9 @@ body {
     height: 200px;
 }
 
-.container{
+.container {
     margin: 0 auto;
-    color: container;
+    color: grey;
     padding-top: 50px;
     padding-bottom: 50px;
     padding-left: 15px;
@@ -46,4 +46,10 @@ body {
     padding-right: 35px;
     padding-top: 10px;
     padding-bottom: 10px;
+}
+
+.hovermenu {
+    color: blue;
+    text-decoration: underline;
+    cursor: auto;
 }
