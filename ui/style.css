@@ -20,6 +20,10 @@ body {
     font-weight: bold;
 }
 
+.nospace {
+    margin: 0 !important;
+}
+
 .img-medium {
     height: 200px;
 }
