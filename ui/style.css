@@ -75,6 +75,7 @@ a:link {
     text-decoration: none;
 }
 a:visited {
+    color: white;
     text-decoration: none;
 }
 a:hover {
@@ -82,5 +83,6 @@ a:hover {
     text-decoration: underline;
 }
 a:active {
+    color: lightgrey;
     text-decoration: underline;
 }
