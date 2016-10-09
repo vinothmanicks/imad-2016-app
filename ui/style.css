@@ -1,7 +1,10 @@
-html, body {
-    height: 100%;
+html {
     background-color: white; /*#45d1ff;*/
     background: linear-gradient(white, lightgrey);
+}
+
+body {
+    height: 100%;
     font-family: sans-serif;
 }
 
