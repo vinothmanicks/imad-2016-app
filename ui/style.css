@@ -48,13 +48,8 @@ body {
     padding-bottom: 10px;
 }
 
-.hovermenu {
-    color: black;
-    text-decoration: none;
-    cursor: auto;
-}
-
 a:link {
+    color: black;
     text-decoration: none;
 }
 a:visited {
