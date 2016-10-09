@@ -41,5 +41,8 @@ body {
     margin: auto;
     border: 2px solid gray;
     width: 1000px;
-    padding: 35px;
+    padding-left: 35px;
+    padding-right: 35px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
