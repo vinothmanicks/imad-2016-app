@@ -55,13 +55,13 @@ body {
     box-shadow: 0 2px 4px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12)!important;
 }
 
-.menu-fromt {
+.menu-front {
     padding-left: 20px;
-    padding-right: 250px;
+    padding-right: 210px;
 }
 
 .menu-mid {
-    padding-left: 250px;
+    padding-left: 210px;
     padding-right: 115px;
 }
 
